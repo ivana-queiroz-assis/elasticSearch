@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb782a36-9815-45b0-afc3-c6f62dc267d9" name="Default Changelist" comment="" />
+    <list default="true" id="bb782a36-9815-45b0-afc3-c6f62dc267d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotations.md" beforeDir="false" afterPath="$PROJECT_DIR$/annotations.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bgvgjpOAkoVhQZ8npzQ656AiyF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -36,7 +43,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589066664726</updated>
-      <workItem from="1589066666794" duration="7000" />
+      <workItem from="1589066666794" duration="999000" />
+      <workItem from="1589148346668" duration="1589000" />
+      <workItem from="1589419453153" duration="2072000" />
     </task>
     <servers />
   </component>
@@ -48,5 +57,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="443" y="97" width="1024" height="840" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1589066673335" />
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1589066824829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589066824829" />
   </component>
 </project>
