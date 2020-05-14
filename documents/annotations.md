@@ -1,4 +1,4 @@
-# Elastic search
+# Elastic search - Managing documents
 
 ## Creating and deleting indices:
 
