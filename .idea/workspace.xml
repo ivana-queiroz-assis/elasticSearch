@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb782a36-9815-45b0-afc3-c6f62dc267d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mappings/annotations.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotations.md" beforeDir="false" afterPath="$PROJECT_DIR$/documents/annotations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mappings/annotations.md" beforeDir="false" afterPath="$PROJECT_DIR$/mappings/annotations.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,9 @@
       <updated>1589066664726</updated>
       <workItem from="1589066666794" duration="999000" />
       <workItem from="1589148346668" duration="1589000" />
-      <workItem from="1589419453153" duration="4679000" />
+      <workItem from="1589419453153" duration="4899000" />
+      <workItem from="1589508588660" duration="1232000" />
+      <workItem from="1589663145418" duration="5801000" />
     </task>
     <servers />
   </component>
@@ -71,9 +72,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589066824829" />
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1589422100924">
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1589424944697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589422100924" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589424944697" />
   </component>
 </project>
